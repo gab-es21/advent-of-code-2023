@@ -1,6 +1,6 @@
 import re
 
-FILE_PATH = 'Data/input1.txt'
+FILE_PATH = 'Data/day_1_input.txt'
 
 DIGIT_NUMBERS = [str(n) for n in range(0,10)]
 SPELLED_NUMBERS = ["zero","one","two","three","four","five","six","seven","eight","nine"]
